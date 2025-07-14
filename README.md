@@ -1,2 +1,2 @@
 # Skin-Cancer-Detection-using-Vision-Hiera-Transformers
-Skin Cancer Detection using Vision &amp; Hiera Transformers
+Comparing Skin Cancer Detection using Vision and Hiera Transformers
